@@ -1,0 +1,10 @@
+
+  body{
+    background-image: -webkit-image-set();
+    background-color: rgb(111, 123, 226);
+    color: whitesmoke;
+    margin: 0px;
+    justify-content: center;
+    align-items: center;
+
+} 
